@@ -26,6 +26,8 @@
 * keySet() - retorna um ```Set<K>```
 * values() - retorna um ```Collection<V>```
 
+---
+
 ### Exercício proposto
 
 Na contagem de votos de uma eleição, são gerados vários registros
